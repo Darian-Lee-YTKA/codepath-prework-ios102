@@ -22,10 +22,11 @@ Required Features:
 
 [x] Introduce yourself button shows alert box with an introduciton and dismiss button
 
-Optional Features
-[] User can tap a button to change the color of the background view
+Optional Features:
 
-[] User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+[ ] User can tap a button to change the color of the background view
+
+[ ] User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 
 [x] Any stylistic changes that are not default options: made it UC Davis colors 
 
