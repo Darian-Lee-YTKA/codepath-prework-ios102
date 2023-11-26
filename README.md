@@ -1,4 +1,4 @@
-App title: # Introduction
+**App title: Introduction**
 App Description
 This app generates an introduction based on user input
 
